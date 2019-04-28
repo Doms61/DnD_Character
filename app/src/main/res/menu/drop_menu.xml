@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".CatalogActivity">
+
+    <item
+        android:id="@+id/skills"
+        android:title="Skills"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/weapons"
+        android:title="Weapons"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/spells"
+        android:title="Spells"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/inventory"
+        android:title="Inventory"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/overal_profile"
+        android:title="Overal"
+        app:showAsAction="never" />
+
+
+</menu>

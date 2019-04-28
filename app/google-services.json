@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "512435558052",
+    "firebase_url": "https://dnd-character-sheet-31f75.firebaseio.com",
+    "project_id": "dnd-character-sheet-31f75",
+    "storage_bucket": "dnd-character-sheet-31f75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512435558052:android:abf629ee861cf4de",
+        "android_client_info": {
+          "package_name": "com.example.dnd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512435558052-mn28rpejljrgj7bltfnunt7rnnl4j6ek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dnd",
+            "certificate_hash": "44652898a6b78f438da38b556b186a6724adb36d"
+          }
+        },
+        {
+          "client_id": "512435558052-ni35v2ban6u25bqnn729ad0653l5ohjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATG1nz44WTz_TJBiL8s-AkEQzTJiCHIP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512435558052-ni35v2ban6u25bqnn729ad0653l5ohjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
